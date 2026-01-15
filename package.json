@@ -1,4 +1,8 @@
 {
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "dependencies": {
     "@vitejs/plugin-react": "^5.1.2",
     "jszip": "^3.10.1",
